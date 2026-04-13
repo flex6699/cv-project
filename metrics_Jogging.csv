@@ -1,0 +1,2 @@
+mean_iou,precision,failure_rate,failure_frames,total_frames
+0.704,0.9049,0.0033,1,306
